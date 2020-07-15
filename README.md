@@ -5,4 +5,4 @@ Read here: https://github.com/kbardool/keras-frcnn
 ```python calorie_estimation.py --path path --option train/test```
 
 # Note
-directory must be ./.../csv/ , ./.../test/ ./.../train/
+directories must be ./.../csv/ , ./.../test/ ./.../train/
